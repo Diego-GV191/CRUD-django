@@ -125,8 +125,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
-<<<<<<< HEAD
 STATIC_ROOT = "/home/DGV2019/dgv2019.pythonanywhere.com/static"
-=======
-STATIC_ROOT = "/home/DGV2019/dgv2019.pythonanywhere.com/static"
->>>>>>> 4237f988d8efa0f00cb43b23f75e162517a7743e
